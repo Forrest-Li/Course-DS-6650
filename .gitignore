@@ -1,9 +1,6 @@
 # Mac files ignored
 .DS_Store
 
-# IDE files ignored
-.idea/
-
 # Compiled class file
 *.class
 
