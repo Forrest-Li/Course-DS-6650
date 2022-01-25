@@ -1,3 +1,6 @@
+# Mac files ignored
+.DS_Store
+
 # Compiled class file
 *.class
 
