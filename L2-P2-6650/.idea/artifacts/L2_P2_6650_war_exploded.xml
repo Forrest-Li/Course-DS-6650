@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="L2-P2-6650:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/L2_P2_6650_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="L2-P2-6650/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="L2-P2-6650" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
